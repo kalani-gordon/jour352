@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,
+h2,
+a {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: #FE7814;
+    font-size: 2em;
+}
+
+a {
+    color: chocolate;
+}
+
+header {
+    text-align: center;
+}
+
+#banner {
+    background-color: #E7E8AE;
+    padding: .5em;
+}
+
+.logo {
+    font-size: 1.5em;
+    font-weight: 700;
+}
+
+.callout {
+    background-color: #CFD4D8;
+    padding: 1em;
+    color: grey;
+}
+
+.callout h2 {
+    font-size: 1em;
+    font-style: italic;
+}
+
+section {
+    margin: 2em 0;
+}
