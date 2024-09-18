@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    line-height: 1.25;
+    background-color: #FBFAF8;
+}
+
+h1 {
+    font-size: 3em;
+    font-weight: 800;
+    /*added*/
+    margin: 1em 0;
+    /*added*/
+}
+
+h2 {
+    /*added*/
+    font-size: 1.5em;
+    font-weight: 800;
+}
+
+h3 {
+    text-transform: uppercase;
+    font-size: 1em;
+}
+
+.callout {
+    background-color: #DCD5C1;
+    padding: 1em;
+    font-size: .8em;
+    line-height: 1.5;
+    color: #21221A;
+}
+
+.callout h2 {
+    /*added*/
+    text-align: center;
+}
+
+section {
+    margin: 1em 0;
+}
+
+/* main {
+    width: 75%;
+} */
+
+/* img {
+    width: 100%;
+} */
+
+img {
+    margin: 0 0 1em 0;
+    /*added*/
+}
+
+a {
+    color: #803513;
+}
