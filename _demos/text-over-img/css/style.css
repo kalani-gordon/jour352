@@ -1,0 +1,23 @@
+.text-over-img {
+    position: relative;
+    text-align: center;
+    color: black;
+    text-shadow: 2px 2px 5px rgb(245, 245, 245);
+    font-weight: 800;
+    font-size: 5em;
+
+}
+
+.text-over-img p {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+@media (max-width:556px) {
+    .text-over-img {
+        font-size: 3em;
+    }
+}
