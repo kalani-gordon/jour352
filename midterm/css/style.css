@@ -1,0 +1,25 @@
+/* 
+
+Styles:
+Body font: Figtree, 14px
+H1, H3: Prompt
+
+White color: #FEFEFE
+Black color: #11151C
+Red link color: #B82B26
+
+Charts (black background): Font is .8em
+ */
+
+
+/* new code you will use */
+.container {
+    width: 45%
+}
+
+header img,
+.chart img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
